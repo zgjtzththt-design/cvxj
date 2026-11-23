@@ -1,0 +1,6 @@
+{
+  "name": "DropLink",
+  "description": "Fast, secure local and browser-based file transfer app for Android with Wi-Fi Direct, LAN discovery, QR pairing, and real-time progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

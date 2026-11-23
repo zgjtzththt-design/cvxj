@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DropLink</string>
+    <string name="notification_channel_transfers">نقل الملفات</string>
+    <string name="notification_channel_transfers_desc">إشعارات تقدم نقل الملفات في الخلفية</string>
+</resources>
